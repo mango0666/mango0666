@@ -7,8 +7,8 @@
   
 ### :man_technologist: Hello. My name is Mango.
  
-- I’m currently learning Javascript.
-- My discord is mango666#1974.
+- I’m currently learning how to make better avatars with Unity.
+- My discord is mango666
 - Pronouns: he/him 
 
 ---
