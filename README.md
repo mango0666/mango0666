@@ -7,7 +7,7 @@
   
 ### :man_technologist: Hello. My name is Mango.
  
-- I’m currently learning how to make better avatars with Unity.
+- I’m currently studying applied computer science at college.
 - My discord is mango666
 - Pronouns: he/him 
 
@@ -26,4 +26,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" title="Fusion360" alt="Fusion360" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
