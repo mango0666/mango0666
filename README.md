@@ -27,4 +27,9 @@
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" title="Fusion360" alt="Fusion360" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<div>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=eb8f14)](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&redirect=true)
+  
 </div>
