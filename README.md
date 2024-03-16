@@ -11,13 +11,12 @@
 - My discord is mango666
 - Pronouns: he/him 
 
----
 ### What I do:
 - I make Quest compatible VRChat avatars using Blender and Unity. 
 - I can make edits, toggles etc for avatars.
 - I can help you add outfits, props etc to prepaid outfits and avatars. 
 - I like to make and edit my own avis in my free time. 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -30,6 +29,9 @@
 <div>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=eb8f14)](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&redirect=true)
-  
 </div>
+
+
+<img align="left"  src="https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=eb8f14)](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&redirect=true">
+<img align="right"  src="https://github-readme-stats-mangos-projects-623d742a.vercel.app/api?username=mango0666&show_icons=true&hide_border=true&theme=dark">
+
