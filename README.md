@@ -32,6 +32,6 @@
 </div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x8857y8ukcqrt0qapo0srw3bl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954)](https://github.com/kittinan/spotify-github-profile)
 <img align="right"  src="https://github-readme-stats-mangos-projects-623d742a.vercel.app/api?username=mango0666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1DB954&text_color=1DB954&icon_color=ffffff">
 
